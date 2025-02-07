@@ -24,3 +24,13 @@ Esse é um projeto simples de **Lista de Tarefas** (To-Do List)  desenvolvido du
 2. Abra o arquivo index.html em seu navegador.
 
 3. Comece a adicionar suas tarefas, marque-as como concluídas e acompanhe o progresso na barra!
+
+## Tecnologias utilizadas
+
+- **Vue.js**: Framework JavaScript para construção da interface.
+- **CSS/HTML**: Para estilização e estruturação da interface.
+- **JavaScript**: Para lógica e interações.
+
+## Contribuições
+
+Sinta-se à vontade para fazer contribuições, como melhorias no design, na lógica do jogo, ou até mesmo na adição de novos recursos! Se você encontrar algum erro, por favor, abra uma *issue* no repositório.
